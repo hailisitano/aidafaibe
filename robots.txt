@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baicohcah.creditworld.org/sitemap.xml
